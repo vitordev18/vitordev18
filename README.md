@@ -1,6 +1,8 @@
 ### Hi my name is Vitor 👊
 I'm 18 years old and live in Bauru, Brazil. I'm fluent in English. And open for work 
 
+I really enjoy programming, but I am just starting out. Anyone who can help me is welcome! 
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpdCsgdSHWdKGkRctWCKBJfrNhzwvmrgNWznRtRgsCSzVjBZcsRbLQKJgtKzlQdcxSfbwV) 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_viitorodrigues) 
@@ -26,5 +28,6 @@ Also use  <img align="center" alt="GIT" src= "https://img.shields.io/badge/GIT-E
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
-I really enjoy programming, but I am just starting out. Anyone who can help me is welcome! 
+
+
 Thanks for visiting my profile :)
