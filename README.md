@@ -1,5 +1,5 @@
 ### Hi my name is Vitor 👊
-18y 🇧🇷
+I'm 18 years old and live in Bauru, Brazil. I'm fluent in English. And open for work 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpdCsgdSHWdKGkRctWCKBJfrNhzwvmrgNWznRtRgsCSzVjBZcsRbLQKJgtKzlQdcxSfbwV) 
 
@@ -15,13 +15,16 @@
 
 ### Technologies of my day
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
-</div><br/> <div style="display: inline_block"><br/>
-    <img align="center" alt="CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  />
-</div><br/> <div style="display: inline_block"><br/>
-    <img align="center" alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />
-</div><br/>
+Coding in <img align="center" alt="Windows" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> using <img align="center" alt="VS Code" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+Also use  <img align="center" alt="GIT" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> and <img align="center" alt="GITHub" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+### Languages I use in my day to day life
+<div style="display:flex"><br/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div>
 
 I really enjoy programming, but I am just starting out. Anyone who can help me is welcome! 
 Thanks for visiting my profile :)
