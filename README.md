@@ -13,7 +13,7 @@ I really enjoy programming, but I am just starting out. Anyone who can help me i
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rodrigues-ferreira-87662a212/) 
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitordev18&show_icons=false&theme=dracula)
+![Vitor GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=vitordev18&show_icons=false&theme=dracula)
 
 ### Technologies of my day
 
