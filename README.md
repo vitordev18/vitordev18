@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vitordev18&label=Profile%20views&color=0e75b6&style=flat" alt="vitordev18" /> </p>
 
-- How to reach me **vrferreiraz18@gmail.com**
+- How to reach me **vrferreiraz18@gmail.com** or **vrferreira18@hotmail.com**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
