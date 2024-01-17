@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitor</h1>
-<h3 align="center">18y 🇧🇷</h3>
+<h3 align="center">19y 🇧🇷</h3>
 <h3 align="center">Beginner Developer</h3>
 
 
@@ -10,7 +10,6 @@
 <a href="https://instagram.com/_viitorodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_viitorodrigues" height="30" width="40" /></a>
 <a href="https://twitter.com/vit0_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vit0_fps" height="30" width="40" /></a>
 <a href="https://fb.com/vitor rodrigues ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vitor rodrigues ferreira" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/vit0_FPS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="vitor rodrigues ferreira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vitor rodrigues ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor rodrigues ferreira" height="30" width="40" /></a>
 
 <h3 align="left">Languages:</h3>
