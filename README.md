@@ -38,9 +38,3 @@
 </p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vitordev18/vitordev18/output/snake.svg" alt="Snake animation" />
-
-###
