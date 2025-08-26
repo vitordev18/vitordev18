@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Creating engaging digital experiences with modern technologies</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2E94E0&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Next.js+%7C+Tailwind;Python+%7C+Flask+%7C+PostgreSQL" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2E94E0&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;PostgreSQL" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 I'm a passionate Front-End Developer with expertise in building responsive, user-friendly web applications. Currently expanding my skills in full-stack development while working on exciting projects that challenge me to grow.
 
-- 🔭 **Currently working on:** Prime Photos and Fonx' projects
-- 🌱 **Learning:** Next.js, React, Tailwind CSS, and Flask Python
+- 🔭 **Currently working on:** Prime Photos
+- 🌱 **Learning:** Front-end Frameworks
 - 💼 **Open to:** Freelance opportunities and collaborative projects
 - 📫 **How to reach me:** vrferreiraz18@gmail.com
 
@@ -26,27 +26,23 @@ I'm a passionate Front-End Developer with expertise in building responsive, user
 ## 🛠️ Technologies & Tools
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
 
@@ -57,12 +53,6 @@ I'm a passionate Front-End Developer with expertise in building responsive, user
 
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
 **Features:** Product catalog, shopping cart, user authentication
-
-### Fonx'
-> Modern, responsive e-commerce website for a clothing brand
-
-**Tech Stack:** Next.js, Tailwind CSS, Flask (Python)  
-**Features:** Full-stack implementation, responsive design, modern UI/UX
 
 ---
 
@@ -84,12 +74,12 @@ I'm a passionate Front-End Developer with expertise in building responsive, user
 
 <p align="center">
   <a href="https://twitter.com/vit0_fps" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/vitor-rodrigues-ferreira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/_viitorodrigues" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
 </p>
