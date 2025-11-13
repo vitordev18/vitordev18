@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Vitor Rodrigues Ferreira 👋</h1>
-<h3 align="center">Desenvolvedor Web focado em criar experiências digitais intuitivas e responsivas.</h3>
+<h3 align="center">Desenvolvedor Front-End focado em criar experiências digitais intuitivas e responsivas.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,11 +16,11 @@
 
 ## 🚀 Sobre Mim
 
-Sou um Desenvolvedor Web apaixonado por transformar ideias em aplicações funcionais e visualmente agradáveis. Com uma base sólida em Front-end, estou atualmente expandindo minhas habilidades para o desenvolvimento Full-stack, trabalhando em projetos que me desafiam a crescer.
+Sou um Desenvolvedor Front-End apaixonado por transformar ideias em aplicações funcionais e visualmente agradáveis. Com uma base sólida em Front-end, estou atualmente expandindo minhas habilidades para o desenvolvimento Full-stack, trabalhando em projetos que me desafiam a crescer.
 
 - 🌎 Moro em **Bauru, SP, Brasil**
-- 🔭 Atualmente trabalhando no **Prime Photos**, um projeto de e-commerce acadêmico.
-- 🌱 Aprendendo e aprofundando na **stack LIVT (Laravel, Inertia.js, Vue.js e Tailwind CSS)**.
+<!-- - 🔭 Atualmente trabalhando no **Prime Photos**, um projeto de e-commerce acadêmico. -->
+- 🌱 Aprendendo e aprofundando em **Angular.js** e na **stack LIVT (Laravel, Inertia.js, Vue.js e Tailwind CSS)**.
 - 💼 Aberto a **oportunidades freelance** e projetos colaborativos.
 - 📫 Como me encontrar: **vrferreiraz18@gmail.com**
 
@@ -31,7 +31,7 @@ Sou um Desenvolvedor Web apaixonado por transformar ideias em aplicações funci
 <p align="left">
   <strong>Front-end:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,vue,tailwind" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Sou um Desenvolvedor Web apaixonado por transformar ideias em aplicações funci
 <p align="left">
   <strong>Ferramentas e Plataformas:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
 </p>
 
