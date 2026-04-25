@@ -19,29 +19,6 @@
 
 ---
 
-## 📌 Projeto em Destaque
-
-**Prime Photos**  
-Plataforma de e-commerce para fotos estilo Polaroid  
-
-- Catálogo de produtos  
-- Carrinho de compras  
-- Autenticação de usuários  
-
-🔗 https://github.com/vitordev18/prime-photos
-
-**Sistema CMS**  
-Sistema para Comunidade Missionária do Salvador de Bauru
-
-- Criação, edição e exclusão de conteúdos  
-- Painel administrativo para gerenciamento  
-- Sistema de autenticação de usuários  
-- Organização e listagem de dados  
-
-🔗 https://github.com/vitordev18/sistema-cms
-
----
-
 ## 🤝 Contato
 
 <p align="center">
