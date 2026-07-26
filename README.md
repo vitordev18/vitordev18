@@ -1,28 +1,44 @@
 <h1 align="center">Vitor Rodrigues Ferreira</h1>
-<p align="center">
-  Desenvolvedor Front-End focado em interfaces modernas, performáticas e responsivas.
-</p>
 
 <p align="center">
-  <a href="https://github.com/vitordev18">
-    <img src="https://komarev.com/ghpvc/?username=vitordev18&color=0e75b6&style=flat" />
-  </a>
+  Front-End Developer focused on modern, performant, and responsive interfaces.
 </p>
 
 ---
 
-## 🚀 Sobre
+## 🚀 About Me
 
-- 💻 Front-End Developer  
-- 📍 Brasil  
-- 📫 **Email:** vrferreiraz18@gmail.com  
+* 💻 Front-End Developer
+* 📍 Based in Brazil
+* 🎯 Focused on building clean, responsive, and user-friendly interfaces
+* 📫 Reach me at: **[vrferreiraz18@gmail.com](mailto:vrferreiraz18@gmail.com)**
 
 ---
 
-## 🤝 Contato
+## 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://linkedin.com/in/vitor-rodrigues-ferreira">LinkedIn</a> •
-  <a href="https://twitter.com/vit0_fps">Twitter</a> •
-  <a href="https://instagram.com/_viitorodrigues">Instagram</a>
+  <strong>Frontend</strong><br/>
+  HTML · CSS · JavaScript · TypeScript · Angular
+</p>
+
+<p align="center">
+  <strong>Backend</strong><br/>
+  PHP · Java · Laravel
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br/>
+  Git · GitHub · VS Code
+</p>
+
+---
+
+## 🤝 Contact
+
+<p align="center">
+  <a href="mailto:vrferreiraz18@gmail.com">Email</a> •
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vrferreiraz18@gmail.com" target="_blank" rel="noreferrer">Gmail</a> •
+  <a href="https://linkedin.com/in/vitor-rodrigues-ferreira" target="_blank" rel="noreferrer">LinkedIn</a> •
+  <a href="https://instagram.com/_viitorodrigues" target="_blank" rel="noreferrer">Instagram</a>
 </p>
