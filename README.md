@@ -37,7 +37,6 @@
 ## 🤝 Contact
 
 <p align="center">
-  <a href="mailto:vrferreiraz18@gmail.com">Email</a> •
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vrferreiraz18@gmail.com" target="_blank" rel="noreferrer">Gmail</a> •
   <a href="https://linkedin.com/in/vitor-rodrigues-ferreira" target="_blank" rel="noreferrer">LinkedIn</a> •
   <a href="https://instagram.com/_viitorodrigues" target="_blank" rel="noreferrer">Instagram</a>
