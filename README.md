@@ -52,35 +52,12 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/vitordev18/INF3-EQ1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitordev18&repo=INF3-EQ1&theme=tokyonight&hide_border=true" alt="INF3-EQ1" />
-  </a>
-  <a href="https://github.com/vitordev18/Prime-Photos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitordev18&repo=Prime-Photos&theme=tokyonight&hide_border=true" alt="Prime-Photos" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vitordev18/amigo-oracao" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitordev18&repo=amigo-oracao&theme=tokyonight&hide_border=true" alt="amigo-oracao" />
-  </a>
-  <a href="https://github.com/vitordev18/vitordev18.github.io" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitordev18&repo=vitordev18.github.io&theme=tokyonight&hide_border=true" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitordev18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vitor's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordev18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitordev18&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+| Project | Description |
+|---------|-------------|
+| 🌳 [**INF3-EQ1** (TCC)](https://github.com/vitordev18/INF3-EQ1) | Capstone project — Flutter/Dart mobile app to support the Environmental Police in timber-company inspections. |
+| 🛒 [**Prime-Photos**](https://github.com/vitordev18/Prime-Photos) | Full e-commerce for selling polaroid photos — PHP, PostgreSQL, HTML, CSS & JavaScript. |
+| 🙏 [**amigo-oracao**](https://github.com/vitordev18/amigo-oracao) | Zero-dependency Node.js CLI that runs a confidential "prayer friend" draw and emails each participant. |
+| 🌐 [**Portfolio**](https://github.com/vitordev18/vitordev18.github.io) | Personal portfolio in vanilla HTML/CSS/JS — bilingual, with light/dark theme and a contact form. |
 
 ---
 
